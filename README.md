@@ -1,1 +1,1 @@
-# SI_T5_P1
+Un keylogger es un programa que registra las teclas que pulsa el usuario.
