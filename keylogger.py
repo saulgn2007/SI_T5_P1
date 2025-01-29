@@ -1,5 +1,4 @@
 import keyboard
-
 def tecla(event):
     print(event.name)
     with open("registro.txt", "a") as f:
